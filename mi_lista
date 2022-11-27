@@ -5,3 +5,6 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="Deportes", t51
 https://murthyneeraj231.s3.amazonaws.com/worldcup.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="Deportes", d5po
+https://stream.dlivecdn.com/dlive/transcode-65-228/lamparadepie/1669489346/src/live.m3u8
