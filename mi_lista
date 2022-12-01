@@ -8,3 +8,6 @@ https://murthyneeraj231.s3.amazonaws.com/worldcup.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="Deportes", dss
 https://casasolabeja.christmas/r.html?id=1061
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="Deportes", boli
+https://d2byzrnrdb259r.cloudfront.net:443/hls/live_480p30.m3u8
