@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="RTP", C4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RTP", C4
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="ATB", C9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ATB", C9
 https://stream.atb.com.bo/live/daniel/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="BOLIVISION", C5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVISION", C5
 https://d3eyooyk041snj.cloudfront.net/hls/live.m3u8
