@@ -8,3 +8,12 @@ https://stream.atb.com.bo/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", BOLIVISION
 https://d3eyooyk041snj.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", BOLIVIA TV
+https://5ca39be538307.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIzIDEwOjQwOjA4IFBNJmhhc2hfdmFsdWU9c09XUnU0YkpRR0J4TE9qTkZTbm9Vdz09JnZhbGlkbWludXRlcz0yNSZpZD0=
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", PAT
+https://w8.redpat.tv:7777/play/120/31578757.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", ABYA YALA
+https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
