@@ -5,20 +5,20 @@ https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlw3QpyMACYeJJDJnQ8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", ATB
-https://stream.atb.com.bo/live/daniel/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", BOLIVISION
 https://d3eyooyk041snj.cloudfront.net/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", BOLIVIA TV
 https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w148111344.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIzIDEyOjEyOjA4IEFNJmhhc2hfdmFsdWU9R3hJcGV0T2NQL3dCdkZzVXVEbUw5UT09JnZhbGlkbWludXRlcz0yNSZpZD0%3D
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", ATB
+https://stream.atb.com.bo/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", RED UNO
+https://stream-02.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMP9jCkxwI4hHLMr0gm_lCbDGeqkAeAEfPREUdUU6NssJ)/dm/3/x8doufc/d/live-3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", PAT
 https://w8.redpat.tv:7777/play/120/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", ABYA YALA
 https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", RED UNO
-https://stream-02.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMP9jCkxwI4hHLMr0gm_lCbDGeqkAeAEfPREUdUU6NssJ)/dm/3/x8doufc/d/live-3.m3u8
