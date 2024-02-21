@@ -2,4 +2,19 @@
   "userId": 1,
   "id": 1,
   "title": "datos de recepcion"
+},
+{
+  "userId": 2,
+  "id": 1,
+  "title": "datos de creacion"
+},
+{
+  "userId": 3,
+  "id": 1,
+  "title": "datos de modificacion"
+},
+{
+  "userId": 4,
+  "id": 1,
+  "title": "datos de datos multiples"
 }
