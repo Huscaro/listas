@@ -1,12 +1,5 @@
-[
-  {
-    "nombre": "Pepito Conejo",
-    "edad": 25,
-    "carnet": true
-  },
-  {
-    "nombre": "Ana Barberá",
-    "edad": 90,
-    "carnet": false
-  }
-]
+{
+  "userId": 1,
+  "id": 1,
+  "title": "quidem molestiae enim"
+}
