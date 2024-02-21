@@ -1,5 +1,12 @@
-{
-  "nombre": "pepe",
-  "edad": 15,
-  "carnet": "licwncia"
-}
+[
+  {
+    "nombre": "pepe",
+    "edad": 15,
+    "carnet": "licwncia"
+  },
+  {
+    "nombre": "juan",
+    "edad": 20,
+    "carnet": "licwncia"
+  }
+]
