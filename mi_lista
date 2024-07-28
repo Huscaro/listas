@@ -9,7 +9,7 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", BOLIVISION LPZ
-https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/chunks.m3u8
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-bo-bolivision-bolivision.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22718b0cd8-90be-4498-9f6d-30577f8d481b%22
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLIVIA", BOLIVIA TV
 https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w148111344.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIzIDEyOjEyOjA4IEFNJmhhc2hfdmFsdWU9R3hJcGV0T2NQL3dCdkZzVXVEbUw5UT09JnZhbGlkbWludXRlcz0yNSZpZD0%3D
