@@ -1,11 +1,11 @@
 [
   {
-    "OpcionId": 1,
+    "opcionId": 1,
     "id": 1,
     "nombre": "si"
   },
   {
-    "OpcionId": 2,
+    "opcionId": 2,
     "id": 2,
     "nombre": "no"
   }
