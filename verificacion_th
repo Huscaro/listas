@@ -1,1 +1,12 @@
-verificacion
+[
+  {
+    "OpcionId": 1,
+    "id": 1,
+    "nombre": "si"
+  },
+  {
+    "OpcionId": 2,
+    "id": 2,
+    "nombre": "no"
+  }
+]
