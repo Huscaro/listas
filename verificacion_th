@@ -1,12 +1,7 @@
 [
   {
-    "opcionId": 1,
     "id": 1,
     "nombre": "si"
-  },
-  {
-    "opcionId": 2,
-    "id": 2,
-    "nombre": "no"
+    "link": "werwejfdjskfjsdjskjfsdj"
   }
 ]
