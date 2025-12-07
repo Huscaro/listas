@@ -2,31 +2,7 @@
   {
     "userId": 1,
     "id": 1,
-    "title": "Bolivision",
-    "body": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/360p.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-bo-bolivision-bolivision.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22ff7fd06f-038a-4db8-bfd8-2e9f0743e1e7%22"
-  },
-  {
-    "userId": 2,
-    "id": 2,
     "title": "eventos",
-    "body": "https://r.fltvhd.com/evento21/mono.m3u8?token=000b3e9b36845b3ebc30d6c0eeab73aa776de6bf-7a-1764546901-1764528901"
-  },
-  {
-    "userId": 3,
-    "id": 3,
-    "title": "stream2",
-    "body": "https://dams2.dbcast.live/SYN8oUewvOUCE1-pXxoZxA/1746163816/3133312e302e3139392e3130/ff746/playlist.m3u8"
-  },
-  {
-    "userId": 4,
-    "id": 4,
-    "title": "tg1",
-    "body": "https://d1pox267xtn5kq.cloudfront.net/out/v1/52922b854a0a4bdf8db895d93a5397ed/index_4.m3u8"
-  },
-  {
-    "userId": 5,
-    "id": 5,
-    "title": "veft",
-    "body": "https://fonz02.dlive.click/1nDYDrnHDEPbDbo88uF8GA/1724116344/3138312e3138382e3136312e3634/ff430/playlist.m3u8"
+    "body": "https://1.fltvhd.com/evento21/mono.m3u8?token=135f5450d1467e8c4f01ed5324a72bb8b52e51c5-ad-1765160582-1765142582"
   }
 ]
